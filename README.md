@@ -7,6 +7,7 @@ Consider contributing 0.21% of your stack each year to support Bitcoin education
 - **Brink** https://brink.dev/
 - **Open Sats** https://opensats.org/
 - **Human Rights Foundation** https://hrf.org/devfund
+- **Bitcoin Donation Portal** https://bitcoindevlist.com/
 
 
 ## Open-Source Projects
