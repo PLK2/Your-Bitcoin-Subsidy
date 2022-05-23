@@ -27,3 +27,4 @@ Consider contributing 0.21% of your stack each year to support Bitcoin education
 
 - **Bitcoin.org** https://bitcoin.org/en/support-bitcoin
 - **Hello Bitcoin** https://hellobitco.in/
+- **Ministry of Nodes** https://www.ministryofnodes.com.au/support
