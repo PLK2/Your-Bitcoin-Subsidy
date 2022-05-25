@@ -1,4 +1,4 @@
-# Bitcoin Support
+# Your Bitcoin Subsidy
 Consider contributing 0.21% of your stack each year to support Bitcoin education, maintenance, and development. Below is a list of organizations and projects for your consideration.
 
 
