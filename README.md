@@ -15,7 +15,7 @@ Consider contributing 0.21% of your stack each year to support Bitcoin education
 - **Specter Desktop** https://donate.specter.solutions/apps/3k77BAT6zshCGNd3i7gw9WKwXQy1/pos
 - **RoninDojo** https://donate.ronindojo.io/
 - **mempool.space** https://mempool.space/about
-- **Tor** https://donate.torproject.org/
+- **BTC Pay Server** https://btcpayserver.org/donate/
 
 
 ## Policy
