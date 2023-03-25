@@ -13,6 +13,7 @@ Consider contributing 0.21% of your stack each year to support Bitcoin education
 - **Hello Bitcoin** https://hellobitco.in/
 - **Ministry of Nodes** https://www.ministryofnodes.com.au/support
 - **Keep It Simple Bitcoin** https://www.keepitsimplebitcoin.com/contribute/
+- **Wallet Scrutiny** https://walletscrutiny.com/donate/
 
 
 ## Core Developers
